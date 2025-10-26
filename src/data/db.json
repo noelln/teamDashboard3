@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "1Backend API ",
+      "description": "Connect the dashboard frontend to the backend endpoints",
+      "assigneeIds": [
+        2
+      ],
+      "date": "2025-05-03",
+      "status": "In Progress"
+    },
+    {
+      "id": "3",
+      "title": "Testing ",
+      "description": "testing",
+      "status": "Pending",
+      "date": "2025-05-04",
+      "assigneeIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Deploy ",
+      "description": "deploy the final product.",
+      "status": "Completed",
+      "date": "2025-05-05",
+      "assigneeIds": [
+        1
+      ]
+    },
+    {
+      "id": "5",
+      "title": " Analysis",
+      "description": "...",
+      "status": "In Progress",
+      "date": "2025-05-06",
+      "assigneeIds": [
+        2,
+        5
+      ]
+    }
+  ]
+}

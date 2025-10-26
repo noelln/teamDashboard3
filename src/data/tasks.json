@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "Design Dashboard UI",
+        "description": "Create the final dashboard wireframes and apply the updated color palette and typography guidelines.",
+        "status": "Completed",
+        "date": "2025-05-02",
+        "assigneeIds": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Backend API Integration",
+        "description": "Connect the dashboard frontend to the backend endpoints and ensure data consistency across modules.",
+        "status": "In Progress",
+        "date": "2025-05-03",
+        "assigneeIds": [
+            2
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Testing New Features",
+        "description": "Perform unit and integration testing for all new features and report bugs using the QA tracker.",
+        "status": "Pending",
+        "date": "2025-05-04",
+        "assigneeIds": [
+            3,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Deploy Production Build",
+        "description": "Prepare and deploy the final build to the production environment. Verify all environment variables.",
+        "status": "Completed",
+        "date": "2025-05-05",
+        "assigneeIds": [
+            1
+        ]
+    },
+    {
+        "id": 5,
+        "title": "User Feedback Analysis",
+        "description": "Analyze feedback from the pilot users and summarize improvement areas for the next sprint planning.",
+        "status": "In Progress",
+        "date": "2025-05-06",
+        "assigneeIds": [
+            2,
+            5
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Noura",
+        "photo": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ali",
+        "photo": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sara",
+        "photo": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Omar",
+        "photo": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Layla",
+        "photo": "https://randomuser.me/api/portraits/women/12.jpg"
+    }
+]
